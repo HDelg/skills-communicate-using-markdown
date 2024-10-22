@@ -10,3 +10,8 @@ Example of code blocks
 var myVar = "Hello world!";
 ```
 
+Adding a task list example
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
