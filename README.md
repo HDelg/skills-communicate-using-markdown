@@ -9,6 +9,14 @@
 
 # Communicate using Markdown
 
+# This is also an h1 header
+
+## This is a h2 header
+Content h2
+
+### This is a h3 header 
+Content h3
+
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
